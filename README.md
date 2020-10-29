@@ -111,10 +111,10 @@ toString()方法来打印课程信息。
 
 程序流程图：
 
-
+![image](https://github.com/vcri6124/java-3/blob/main/1603945521(1).png)
 
 四、实验结果截图
-
+![image](https://github.com/vcri6124/java-3/blob/main/图片1.png)
 
 五、实验感想
 
